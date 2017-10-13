@@ -12,9 +12,25 @@
 		4F3894BF1F83044900911851 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F3894BE1F83044900911851 /* ViewController.m */; };
 		4F3894C21F83044900911851 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894C01F83044900911851 /* Main.storyboard */; };
 		4F3894C41F83044900911851 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894C31F83044900911851 /* Assets.xcassets */; };
-		4F3894C71F83044900911851 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894C51F83044900911851 /* LaunchScreen.storyboard */; };
 		4F3894D21F83044900911851 /* Inclitiv3Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F3894D11F83044900911851 /* Inclitiv3Tests.m */; };
 		4F3894DD1F83044900911851 /* Inclitiv3UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F3894DC1F83044900911851 /* Inclitiv3UITests.m */; };
+		4F3894F61F8304B600911851 /* ic_autorenew_36pt.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894EB1F8304B600911851 /* ic_autorenew_36pt.png */; };
+		4F3894F71F8304B600911851 /* ic_autorenew_48pt.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894EC1F8304B600911851 /* ic_autorenew_48pt.png */; };
+		4F3894F81F8304B600911851 /* ic_autorenew.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894ED1F8304B600911851 /* ic_autorenew.png */; };
+		4F3894F91F8304B600911851 /* ic_cast_48pt_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894EE1F8304B600911851 /* ic_cast_48pt_2x.png */; };
+		4F3894FA1F8304B600911851 /* ic_cast_48pt.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894EF1F8304B600911851 /* ic_cast_48pt.png */; };
+		4F3894FB1F8304B600911851 /* ic_copyright_48pt_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894F01F8304B600911851 /* ic_copyright_48pt_2x.png */; };
+		4F3894FC1F8304B600911851 /* ic_copyright_48pt.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894F11F8304B600911851 /* ic_copyright_48pt.png */; };
+		4F3894FD1F8304B600911851 /* ic_copyright.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894F21F8304B600911851 /* ic_copyright.png */; };
+		4F3894FE1F8304B600911851 /* ic_dvr.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894F31F8304B600911851 /* ic_dvr.png */; };
+		4F3894FF1F8304B600911851 /* incliti_WORKSANSEXTRALIGHT.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894F41F8304B600911851 /* incliti_WORKSANSEXTRALIGHT.png */; };
+		4F3895001F8304B600911851 /* incliti.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F3894F51F8304B600911851 /* incliti.png */; };
+		4F3895021F8304CB00911851 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F3895011F8304CB00911851 /* Launch Screen.storyboard */; };
+		4F38950B1F8304F900911851 /* CoinsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F3895031F8304F900911851 /* CoinsTableViewController.m */; };
+		4F38950C1F8304F900911851 /* CustomCoinViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F3895071F8304F900911851 /* CustomCoinViewCell.m */; };
+		4F38950D1F8304F900911851 /* NewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F3895081F8304F900911851 /* NewsViewController.m */; };
+		4F38950E1F8304F900911851 /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F38950A1F8304F900911851 /* CustomCell.m */; };
+		4F3895111F834D6500911851 /* CoinDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F3895101F834D6500911851 /* CoinDetailViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,7 +59,6 @@
 		4F3894BE1F83044900911851 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		4F3894C11F83044900911851 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4F3894C31F83044900911851 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4F3894C61F83044900911851 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F3894C81F83044900911851 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4F3894CD1F83044900911851 /* Inclitiv3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Inclitiv3Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F3894D11F83044900911851 /* Inclitiv3Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Inclitiv3Tests.m; sourceTree = "<group>"; };
@@ -51,6 +66,28 @@
 		4F3894D81F83044900911851 /* Inclitiv3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Inclitiv3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F3894DC1F83044900911851 /* Inclitiv3UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Inclitiv3UITests.m; sourceTree = "<group>"; };
 		4F3894DE1F83044900911851 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F3894EB1F8304B600911851 /* ic_autorenew_36pt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_autorenew_36pt.png; sourceTree = "<group>"; };
+		4F3894EC1F8304B600911851 /* ic_autorenew_48pt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_autorenew_48pt.png; sourceTree = "<group>"; };
+		4F3894ED1F8304B600911851 /* ic_autorenew.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_autorenew.png; sourceTree = "<group>"; };
+		4F3894EE1F8304B600911851 /* ic_cast_48pt_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_cast_48pt_2x.png; sourceTree = "<group>"; };
+		4F3894EF1F8304B600911851 /* ic_cast_48pt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_cast_48pt.png; sourceTree = "<group>"; };
+		4F3894F01F8304B600911851 /* ic_copyright_48pt_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_copyright_48pt_2x.png; sourceTree = "<group>"; };
+		4F3894F11F8304B600911851 /* ic_copyright_48pt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_copyright_48pt.png; sourceTree = "<group>"; };
+		4F3894F21F8304B600911851 /* ic_copyright.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_copyright.png; sourceTree = "<group>"; };
+		4F3894F31F8304B600911851 /* ic_dvr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_dvr.png; sourceTree = "<group>"; };
+		4F3894F41F8304B600911851 /* incliti_WORKSANSEXTRALIGHT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = incliti_WORKSANSEXTRALIGHT.png; sourceTree = "<group>"; };
+		4F3894F51F8304B600911851 /* incliti.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = incliti.png; sourceTree = "<group>"; };
+		4F3895011F8304CB00911851 /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		4F3895031F8304F900911851 /* CoinsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoinsTableViewController.m; sourceTree = "<group>"; };
+		4F3895041F8304F900911851 /* CoinsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoinsTableViewController.h; sourceTree = "<group>"; };
+		4F3895051F8304F900911851 /* NewsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsViewController.h; sourceTree = "<group>"; };
+		4F3895061F8304F900911851 /* CustomCoinViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCoinViewCell.h; sourceTree = "<group>"; };
+		4F3895071F8304F900911851 /* CustomCoinViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCoinViewCell.m; sourceTree = "<group>"; };
+		4F3895081F8304F900911851 /* NewsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsViewController.m; sourceTree = "<group>"; };
+		4F3895091F8304F900911851 /* CustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCell.h; sourceTree = "<group>"; };
+		4F38950A1F8304F900911851 /* CustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
+		4F38950F1F834D6500911851 /* CoinDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoinDetailViewController.h; sourceTree = "<group>"; };
+		4F3895101F834D6500911851 /* CoinDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoinDetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,15 +138,26 @@
 		4F3894B61F83044900911851 /* Inclitiv3 */ = {
 			isa = PBXGroup;
 			children = (
+				4F3894EA1F83048900911851 /* Icons */,
 				4F3894BA1F83044900911851 /* AppDelegate.h */,
 				4F3894BB1F83044900911851 /* AppDelegate.m */,
+				4F3895031F8304F900911851 /* CoinsTableViewController.m */,
+				4F3895041F8304F900911851 /* CoinsTableViewController.h */,
+				4F3895051F8304F900911851 /* NewsViewController.h */,
+				4F3895081F8304F900911851 /* NewsViewController.m */,
+				4F3895061F8304F900911851 /* CustomCoinViewCell.h */,
+				4F3895071F8304F900911851 /* CustomCoinViewCell.m */,
+				4F3895091F8304F900911851 /* CustomCell.h */,
+				4F38950A1F8304F900911851 /* CustomCell.m */,
 				4F3894BD1F83044900911851 /* ViewController.h */,
+				4F3895011F8304CB00911851 /* Launch Screen.storyboard */,
 				4F3894BE1F83044900911851 /* ViewController.m */,
 				4F3894C01F83044900911851 /* Main.storyboard */,
 				4F3894C31F83044900911851 /* Assets.xcassets */,
-				4F3894C51F83044900911851 /* LaunchScreen.storyboard */,
 				4F3894C81F83044900911851 /* Info.plist */,
 				4F3894B71F83044900911851 /* Supporting Files */,
+				4F38950F1F834D6500911851 /* CoinDetailViewController.h */,
+				4F3895101F834D6500911851 /* CoinDetailViewController.m */,
 			);
 			path = Inclitiv3;
 			sourceTree = "<group>";
@@ -138,6 +186,24 @@
 				4F3894DE1F83044900911851 /* Info.plist */,
 			);
 			path = Inclitiv3UITests;
+			sourceTree = "<group>";
+		};
+		4F3894EA1F83048900911851 /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				4F3894EB1F8304B600911851 /* ic_autorenew_36pt.png */,
+				4F3894EC1F8304B600911851 /* ic_autorenew_48pt.png */,
+				4F3894ED1F8304B600911851 /* ic_autorenew.png */,
+				4F3894EE1F8304B600911851 /* ic_cast_48pt_2x.png */,
+				4F3894EF1F8304B600911851 /* ic_cast_48pt.png */,
+				4F3894F01F8304B600911851 /* ic_copyright_48pt_2x.png */,
+				4F3894F11F8304B600911851 /* ic_copyright_48pt.png */,
+				4F3894F21F8304B600911851 /* ic_copyright.png */,
+				4F3894F31F8304B600911851 /* ic_dvr.png */,
+				4F3894F41F8304B600911851 /* incliti_WORKSANSEXTRALIGHT.png */,
+				4F3894F51F8304B600911851 /* incliti.png */,
+			);
+			name = Icons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,9 +312,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F3894C71F83044900911851 /* LaunchScreen.storyboard in Resources */,
+				4F3895001F8304B600911851 /* incliti.png in Resources */,
+				4F3894FA1F8304B600911851 /* ic_cast_48pt.png in Resources */,
+				4F3894FB1F8304B600911851 /* ic_copyright_48pt_2x.png in Resources */,
+				4F3895021F8304CB00911851 /* Launch Screen.storyboard in Resources */,
+				4F3894F61F8304B600911851 /* ic_autorenew_36pt.png in Resources */,
 				4F3894C41F83044900911851 /* Assets.xcassets in Resources */,
+				4F3894FC1F8304B600911851 /* ic_copyright_48pt.png in Resources */,
 				4F3894C21F83044900911851 /* Main.storyboard in Resources */,
+				4F3894F81F8304B600911851 /* ic_autorenew.png in Resources */,
+				4F3894FE1F8304B600911851 /* ic_dvr.png in Resources */,
+				4F3894FD1F8304B600911851 /* ic_copyright.png in Resources */,
+				4F3894F91F8304B600911851 /* ic_cast_48pt_2x.png in Resources */,
+				4F3894F71F8304B600911851 /* ic_autorenew_48pt.png in Resources */,
+				4F3894FF1F8304B600911851 /* incliti_WORKSANSEXTRALIGHT.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +350,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F3895111F834D6500911851 /* CoinDetailViewController.m in Sources */,
+				4F38950B1F8304F900911851 /* CoinsTableViewController.m in Sources */,
 				4F3894BF1F83044900911851 /* ViewController.m in Sources */,
+				4F38950C1F8304F900911851 /* CustomCoinViewCell.m in Sources */,
+				4F38950D1F8304F900911851 /* NewsViewController.m in Sources */,
+				4F38950E1F8304F900911851 /* CustomCell.m in Sources */,
 				4F3894BC1F83044900911851 /* AppDelegate.m in Sources */,
 				4F3894B91F83044900911851 /* main.m in Sources */,
 			);
@@ -317,14 +399,6 @@
 				4F3894C11F83044900911851 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		4F3894C51F83044900911851 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				4F3894C61F83044900911851 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -507,6 +581,7 @@
 				4F3894E31F83044900911851 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F3894E41F83044900911851 /* Build configuration list for PBXNativeTarget "Inclitiv3Tests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +590,7 @@
 				4F3894E61F83044900911851 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F3894E71F83044900911851 /* Build configuration list for PBXNativeTarget "Inclitiv3UITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +599,7 @@
 				4F3894E91F83044900911851 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
