@@ -19,7 +19,8 @@
     
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    self.title = @"News";
+    
+    
     
     [self refreshImages];
     
@@ -115,7 +116,7 @@
 
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    return 200;
+    return 201;
 }
 
 @end
