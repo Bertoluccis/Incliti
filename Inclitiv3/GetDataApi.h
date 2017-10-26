@@ -10,5 +10,9 @@
 
 @interface GetDataApi : NSObject
 
+@property (nonatomic) NSString *baseLinkUrl;
+@property (nonatomic) NSString *coinUrl;
+@property (nonatomic) NSString *completeUrl;
+@property (nonatomic) NSError *error;
 
 @end
