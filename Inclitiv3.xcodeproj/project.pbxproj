@@ -31,6 +31,7 @@
 		4F38950D1F8304F900911851 /* NewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F3895081F8304F900911851 /* NewsViewController.m */; };
 		4F38950E1F8304F900911851 /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F38950A1F8304F900911851 /* CustomCell.m */; };
 		4F3895111F834D6500911851 /* CoinDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F3895101F834D6500911851 /* CoinDetailViewController.m */; };
+		F612B32E1FA1E47400D0F242 /* GetDataApi.m in Sources */ = {isa = PBXBuildFile; fileRef = F612B32D1FA1E47400D0F242 /* GetDataApi.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -88,6 +89,8 @@
 		4F38950A1F8304F900911851 /* CustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
 		4F38950F1F834D6500911851 /* CoinDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoinDetailViewController.h; sourceTree = "<group>"; };
 		4F3895101F834D6500911851 /* CoinDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoinDetailViewController.m; sourceTree = "<group>"; };
+		F612B32C1FA1E47400D0F242 /* GetDataApi.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GetDataApi.h; sourceTree = "<group>"; };
+		F612B32D1FA1E47400D0F242 /* GetDataApi.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GetDataApi.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +161,8 @@
 				4F3894B71F83044900911851 /* Supporting Files */,
 				4F38950F1F834D6500911851 /* CoinDetailViewController.h */,
 				4F3895101F834D6500911851 /* CoinDetailViewController.m */,
+				F612B32C1FA1E47400D0F242 /* GetDataApi.h */,
+				F612B32D1FA1E47400D0F242 /* GetDataApi.m */,
 			);
 			path = Inclitiv3;
 			sourceTree = "<group>";
@@ -350,6 +355,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F612B32E1FA1E47400D0F242 /* GetDataApi.m in Sources */,
 				4F3895111F834D6500911851 /* CoinDetailViewController.m in Sources */,
 				4F38950B1F8304F900911851 /* CoinsTableViewController.m in Sources */,
 				4F3894BF1F83044900911851 /* ViewController.m in Sources */,
